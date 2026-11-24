@@ -1,0 +1,8 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.pem
+*.key
+*.tfvars
+*.tfvars.json
+.aws/
